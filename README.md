@@ -2,6 +2,26 @@
 
 # Yara - Message in a Bottle
 
+## Deploy no heroku
+
+link úteis da api no heroku:
+
+- Cadastro usuário:
+
+<a> https://api-yara-sendingemail.herokuapp.com/users </a>
+
+- Cadastro mensagem:
+
+<a> https://api-yara-sendingemail.herokuapp.com/message </a>
+
+## Como usar ?
+
+- Descrição no ReadMe
+
+##
+
+## Sobre API Yara - Message in a Bottle
+
 -   Yara é uma aplicação que permite o envio de e-mails automatizados com mensagens pré-formatadas (ou não) a usuários cadastrados em um banco de dados;
 
 -   Com o programa é possível criar, buscar, deletar e fazer update do cadastro de usuários, associando-os a endereços eletrônicos e um id;
@@ -18,13 +38,12 @@
 - Fábio Clericuzi 
 - Túlio Albuquerque 
 
-Mentoria:
+## Mentoria:
 - Rui Arthur Nunes
 - Samuel França
 
 Trabalho de conclusão do curso NExT - Nova Experiência de Trabalho;
 Sem fins comerciais;
-
 
 ## O que você vai precisar 
 
